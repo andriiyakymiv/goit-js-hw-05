@@ -2,6 +2,11 @@
 
 ---
 
+**While performing these tasks, I used the principle of callback functions and
+arrow functions. I used array objects and array methods such as: forEach, map,
+flatMap, filter, find and every, some, reduce, toSorted. I set up my own sorting
+order for numbers and strings. I used array methods in chains.**
+
 ## Задача 1. Імена користувачів
 
 Напиши стрілочну функцію `getUserNames(users)`, яка прийматиме один параметр
